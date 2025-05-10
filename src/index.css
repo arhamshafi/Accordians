@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+*{
+    box-sizing: border-box;
+}
+
+.heading{
+        font-family: "Coral Pixels", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.qu{
+        font-family: "Tagesschrift", system-ui;
+        font-weight: 400;
+        font-style: normal;
+}
+.context{
+    cursor: context-menu;
+}
